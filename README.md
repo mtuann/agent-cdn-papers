@@ -2,18 +2,19 @@
 
 Content-delivery and network infrastructure for LLMs and AI agents: KV-cache and knowledge delivery networks, edge, in-network and semantic caching, web caches for agent and crawler traffic, and the agentic web.
 
-**14 papers with code** out of 402 indexed · updated **October 20, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
+**15 papers with code** out of 428 indexed · updated **October 25, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
-## Newest 14 papers with code
+## Newest 15 papers with code
 
 | Date | Paper | Venue | Code |
 |---|---|---|---|
-| 2026-10-13 | [Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://huggingface.co/papers/2610.17816)<br><sub>Pengcheng Huang, Zhenghao Liu, Shixin Ren et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/OpenBMB/EC2-Bench?style=flat&label=%E2%98%85)](https://github.com/OpenBMB/EC2-Bench) |
-| 2026-09-29 | [Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs](https://huggingface.co/papers/2609.32259)<br><sub>Vincent-Daniel Yun, Woosang Lim, Haneul Yoo et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/daniel-eai/Prefill-Free-Multi-Agent-LLMs?style=flat&label=%E2%98%85)](https://github.com/daniel-eai/Prefill-Free-Multi-Agent-LLMs) |
+| 2026-10-13 | [Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816)<br><sub>Pengcheng Huang, Zhenghao Liu, Shixin Ren et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/OpenBMB/EC2-Bench?style=flat&label=%E2%98%85)](https://github.com/OpenBMB/EC2-Bench) |
 | 2026-09-28 | [Similarity Is Not Validity: Defending LLM Semantic Caches Against Poisoning](https://doi.org/10.48550/ARXIV.2609.35908)<br><sub>Fuchen Ma, Yu Jiang, Zihan Zhang et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/shentoumengxin/deletion-gain?style=flat&label=%E2%98%85)](https://github.com/shentoumengxin/deletion-gain) |
 | 2026-09-28 | [PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction](https://doi.org/10.48550/ARXIV.2609.34054)<br><sub>Hyesung Jeon, Hyeongju Ha, Jae-Joon Kim</sub> | arXiv | [![stars](https://img.shields.io/github/stars/hjeon2k/PReCache?style=flat&label=%E2%98%85)](https://github.com/hjeon2k/PReCache) |
+| 2026-09-26 | [Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs](https://arxiv.org/abs/2609.32259)<br><sub>Vincent-Daniel Yun, Woosang Lim, Haneul Yoo et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/daniel-eai/Prefill-Free-Multi-Agent-LLMs?style=flat&label=%E2%98%85)](https://github.com/daniel-eai/Prefill-Free-Multi-Agent-LLMs) |
+| 2026-09-18 | [Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents](https://doi.org/10.48550/ARXIV.2609.22486)<br><sub>Yunming Xiao, Peichun Hua</sub> | arXiv | [![stars](https://img.shields.io/github/stars/sarendis56/SemDN_HotNets26?style=flat&label=%E2%98%85)](https://github.com/sarendis56/SemDN_HotNets26) |
 | 2026-06-07 | [RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference](https://doi.org/10.48550/ARXIV.2606.09937)<br><sub>Anirudh Sekar</sub> | arXiv | [![stars](https://img.shields.io/github/stars/AnirudhSekar/RKSC?style=flat&label=%E2%98%85)](https://github.com/AnirudhSekar/RKSC) |
 | 2026-04-14 | [Modality-Native Routing in Agent-to-Agent Networks: A Multimodal A2A Protocol Extension](https://arxiv.org/abs/2604.12213)<br><sub>Vasundra Srinivasan</sub> | arXiv | [![stars](https://img.shields.io/github/stars/vasundras/modality-native-routing-a2a-protocol?style=flat&label=%E2%98%85)](https://github.com/vasundras/modality-native-routing-a2a-protocol) |
 | 2026-04-13 | [AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web](https://openreview.net/forum?id=aNtMUFWjnD)<br><sub>Chenyan Xiong, Kate Shen, Shanshan Zhong</sub> | ICML 2026 | [![stars](https://img.shields.io/github/stars/cxcscmu/AgentWebBench?style=flat&label=%E2%98%85)](https://github.com/cxcscmu/AgentWebBench) |
