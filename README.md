@@ -2,11 +2,11 @@
 
 Content-delivery and network infrastructure for LLMs and AI agents: KV-cache and knowledge delivery networks, edge, in-network and semantic caching, web caches for agent and crawler traffic, and the agentic web.
 
-**15 papers with code** out of 428 indexed · updated **October 25, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
+**16 papers with code** out of 452 indexed · updated **November 03, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
-## Newest 15 papers with code
+## Newest 16 papers with code
 
 | Date | Paper | Venue | Code |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Content-delivery and network infrastructure for LLMs and AI agents: KV-cache and
 | 2026-02-10 | [Cooperative Edge Caching with Large Language Model in Wireless Networks](https://openreview.net/forum?id=dLhVU9FH1v)<br><sub>Lingtao Ouyang, Ning Yang, Haijun Zhang et al.</sub> | IEEE TMC | [![stars](https://img.shields.io/github/stars/gracefulning/CoopLLM-Cache?style=flat&label=%E2%98%85)](https://github.com/gracefulning/CoopLLM-Cache) |
 | 2026-02-01 | [LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents](https://doi.org/10.48550/ARXIV.2602.01053)<br><sub>Hyeongju Ha, Hyesung Jeon, Jae-Joon Kim</sub> | ICML 2026 | [![stars](https://img.shields.io/github/stars/hjeon2k/LRAgent?style=flat&label=%E2%98%85)](https://github.com/hjeon2k/LRAgent) |
 | 2025-07-28 | [Agentic Web: Weaving the Next Web with AI Agents](https://doi.org/10.48550/ARXIV.2507.21206)<br><sub>Yingxuan Yang, Mulei Ma, Yuxuan Huang et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/SafeRL-Lab/agentic-web?style=flat&label=%E2%98%85)](https://github.com/SafeRL-Lab/agentic-web) |
+| 2025-04-19 | [Planet as a Brain: Towards Internet of AgentSites based on AIOS Server](https://huggingface.co/papers/2504.14411)<br><sub>Xiang Zhang, Yongfeng Zhang</sub> | arXiv | [![stars](https://img.shields.io/github/stars/agiresearch/AIOS.Server?style=flat&label=%E2%98%85)](https://github.com/agiresearch/AIOS.Server) |
 | 2025-02-03 | [Firewalls to Secure Dynamic LLM Agentic Networks](https://arxiv.org/abs/2502.01822)<br><sub>Sahar Abdelnabi, Amr Gomaa, Eugene Bagdasarian et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/amrgomaaelhady/Firewall-Agentic-Networks?style=flat&label=%E2%98%85)](https://github.com/amrgomaaelhady/Firewall-Agentic-Networks) |
 | 2024-10-24 | [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://doi.org/10.48550/ARXIV.2410.18517)<br><sub>Yifei Yang, Zouying Cao, Qiguang Chen et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/yangyifei729/kvsharer?style=flat&label=%E2%98%85)](https://github.com/yangyifei729/kvsharer) |
 | 2024-09-16 | [Do Large Language Models Need a Content Delivery Network?](https://doi.org/10.48550/ARXIV.2409.13761)<br><sub>Yihua Cheng, Kuntai Du, Junchen Jiang et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/LMCache/LMCache?style=flat&label=%E2%98%85)](https://github.com/LMCache/LMCache) |
