@@ -2,7 +2,7 @@
 
 Content-delivery and network infrastructure for LLMs and AI agents: KV-cache and knowledge delivery networks, edge, in-network and semantic caching, web caches for agent and crawler traffic, and the agentic web.
 
-**16 papers with code** out of 460 indexed · updated **November 09, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
+**16 papers with code** out of 460 indexed · updated **November 11, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
