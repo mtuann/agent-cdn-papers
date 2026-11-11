@@ -29,6 +29,6 @@ Content-delivery and network infrastructure for LLMs and AI agents: KV-cache and
 
 ---
 
-<sub>Updated automatically from arXiv, OpenAlex, DBLP and OpenReview by [shiny-papers](https://mtuann.github.io/papers/). Missing a paper? Open an issue. If this list helps you, you can support it on [Ko-fi](https://ko-fi.com/miutheladycat) or Techcombank 5877 5555 55 (Nguyen Thi Lan Phuong).</sub>
+<sub>Updated automatically from arXiv, OpenAlex, DBLP and OpenReview by [papers-crawler](https://mtuann.github.io/papers/). Missing a paper? Open an issue. If this list helps you, you can support it on [Ko-fi](https://ko-fi.com/miutheladycat) or Techcombank 5877 5555 55 (Nguyen Thi Lan Phuong).</sub>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mtuann/agent-cdn-papers&type=Date)](https://star-history.com/#mtuann/agent-cdn-papers&Date)
