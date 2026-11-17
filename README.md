@@ -2,14 +2,15 @@
 
 Content-delivery and network infrastructure for LLMs and AI agents: KV-cache and knowledge delivery networks, edge, in-network and semantic caching, web caches for agent and crawler traffic, and the agentic web.
 
-**23 papers with code** out of 459 indexed · updated **November 12, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
+**24 papers with code** out of 469 indexed · updated **November 17, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=agent_cdn)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
-## Newest 22 papers with code
+## Newest 23 papers with code
 
 | Date | Paper | Venue | Code |
 |---|---|---|---|
+| 2026-11-15 | [Encrypted agent-to-agent traffic of an edge-AI gateway and its emulated cloud agents (collection C2), with a paired cleartext/TLS control: header-only captures and features](https://doi.org/10.5281/zenodo.24238558)<br><sub>Mayuresh Sanjay More, Shradha Devendra Pujari, Solomon Berhe</sub> | Zenodo | [![stars](https://img.shields.io/github/stars/MayureshMore/Where-the-Fingerprint-Lives-A-Passive-Metadata-Measurement-of-Leakage-in-LLM-Multi-Agent-A2A-Syst?style=flat&label=%E2%98%85)](https://github.com/MayureshMore/Where-the-Fingerprint-Lives-A-Passive-Metadata-Measurement-of-Leakage-in-LLM-Multi-Agent-A2A-Syst) |
 | 2026-11-01 | [Encrypted agent-to-agent traffic of an LLM multi-agent system: TLS 1.3 A2A captures and features (collection C1)](https://doi.org/10.5281/zenodo.23868868)<br><sub>Mayuresh Sanjay More, Shradha Devendra Pujari, Solomon Berhe</sub> | Zenodo | [![stars](https://img.shields.io/github/stars/MayureshMore/Where-the-Fingerprint-Lives-A-Passive-Metadata-Measurement-of-Leakage-in-LLM-Multi-Agent-A2A-Syst?style=flat&label=%E2%98%85)](https://github.com/MayureshMore/Where-the-Fingerprint-Lives-A-Passive-Metadata-Measurement-of-Leakage-in-LLM-Multi-Agent-A2A-Syst) |
 | 2026-10-13 | [Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816)<br><sub>Pengcheng Huang, Zhenghao Liu, Shixin Ren et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/OpenBMB/EC2-Bench?style=flat&label=%E2%98%85)](https://github.com/OpenBMB/EC2-Bench) |
 | 2026-10-10 | [Dissecting the Carbon-SLO Tension in Geo-Distributed LLM Serving](https://arxiv.org/abs/2610.14571)<br><sub>Burak Topçu, Musa Cim, Zuhal Öztürk et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/topcuburak/carbon-slo-at-geoscale?style=flat&label=%E2%98%85)](https://github.com/topcuburak/carbon-slo-at-geoscale) |
